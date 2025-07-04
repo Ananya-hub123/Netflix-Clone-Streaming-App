@@ -1,0 +1,1 @@
+A Netflix-Clone built using react.js,express.js,node.js,MongoDB,Firebase for authentication where you can play the trailer of the TVShow, Movies and like or dislike or add it to your list and also remove from your list and also select any genre and filter accordingly with fully fuctional and responsive UI inspired from Netflix
